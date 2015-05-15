@@ -10,7 +10,7 @@
         <field name="VAR">water</field>
         <value name="VALUE">
           <block type="math_number" id="173">
-            <field name="NUM">0</field>
+            <field name="NUM">1</field>
           </block>
         </value>
         <next>
