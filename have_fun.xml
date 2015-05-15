@@ -9,9 +9,7 @@
       <block type="variables_set" id="22" inline="true">
         <field name="VAR">water</field>
         <value name="VALUE">
-          <block type="math_number" id="173">
-            <field name="NUM">1</field>
-          </block>
+          <block type="sensor_battery" id="189"></block>
         </value>
         <next>
           <block type="oled_cleardisplay" id="46">
