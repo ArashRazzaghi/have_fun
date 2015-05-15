@@ -9,8 +9,8 @@
       <block type="variables_set" id="22" inline="true">
         <field name="VAR">water</field>
         <value name="VALUE">
-          <block type="sensor_spectrometer" id="37">
-            <field name="LIGHT">BLUE</field>
+          <block type="sensor_button" id="146">
+            <field name="OBJECT">UP</field>
           </block>
         </value>
         <next>
